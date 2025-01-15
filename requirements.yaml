@@ -1,4 +1,4 @@
-name: convex_splatting_test_2
+name: convex_splatting
 channels:
     - nvidia
     - conda-forge
