@@ -1,5 +1,5 @@
 
-<h1 align="center">3D Convex Splatting: Radiance Field Rendering with 3D Smooth Convexes</h1>
+<h1 align="center">3D Convex Splatting: Radiance Field Rendering with 3D Smooth Convexes [CVPR 2025] </h1>
 
 <div align="center">
   <a href="https://convexsplatting.github.io/">Project page</a> &nbsp;|&nbsp;
